@@ -1,7 +1,7 @@
 class Imageblur1
 
 	def initialize(array)
-	   @imageblur1 = array
+	   @imageblur1 = []
 	end
 
 	def output_imageblur1
